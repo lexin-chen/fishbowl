@@ -1,4 +1,3 @@
-Jury duty
 Pizza delivery
 Roller coaster
 Soccer goal
@@ -27,6 +26,7 @@ Summer camp
 Horseback riding
 Video game tournament
 Fashion runway
+Jury duty
 Amusement park
 Karaoke night
 Chess match
